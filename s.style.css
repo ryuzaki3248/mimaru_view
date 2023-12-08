@@ -1,0 +1,44 @@
+.toppage{
+	background-color: blanchedalmond;
+	height: 5000px;
+}
+
+header{
+	height: 100px;
+	width: 100%;
+	background-color: lightgray;
+}
+
+.toplogo_image{
+	width: 180px;
+	height: 100px;
+}
+
+.main{
+	width: 100%;
+	height: 800px;
+	background-color: yellow;
+	display: flex;
+}
+
+.left-menu{
+	width: 50%;
+	height: 900px;
+	background-color: blue;
+}
+
+.topleft_image{
+	width: 100%;
+  height: 600px;
+}
+
+.right-menu{
+  width: 50%;
+  height: 900px;
+	background-color: red;
+}
+
+.topright_image{
+  width: 100%;
+  height: 600px;
+}
