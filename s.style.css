@@ -1,17 +1,17 @@
 .toppage{
-
-	height: 7000px;
+	background-color: blanchedalmond;
+	height: 5000px;
 }
 
 header{
 	height: 100px;
 	width: 100%;
-
+	background-color: lightgray;
 }
 
 .toplogo_image{
 	width: 180px;
-	height: 90px;
+	height: 100px;
 }
 
 .main{
@@ -21,102 +21,24 @@ header{
 	display: flex;
 }
 
-.leftmenu{
+.left-menu{
 	width: 50%;
-	height: 800px;
+	height: 900px;
 	background-color: blue;
 }
 
 .topleft_image{
 	width: 100%;
-  height: 800px;
+  height: 600px;
 }
 
-.oneword{
-  writing-mode: vertical-rl;
-  text-orientation: upright;
-  position: absolute;
-  top: 100px;
-  left: 900px;
-  color: black ;
-  font-size  : 70px;
-  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","HG明朝E","ＭＳ Ｐ明朝","ＭＳ 明朝",serif;
-}
-
-
-.rightmenu{
+.right-menu{
   width: 50%;
-  height: 800px;
+  height: 900px;
 	background-color: red;
 }
 
 .topright_image{
   width: 100%;
-  height: 800px;
+  height: 600px;
 }
-
-.border{
-  height: 90px;
-  background-color: bisque;
-}
-
-.second{
-  width: 100%;
-	height: 800px;
-  background-color:rgb(223, 240, 240);
-  display: flex;
-}
-
-.secondleft_image{
-  width: 100%;
-  height: 800px;
-}
-
-.secondtext{
-  width: 70%;
-  height: 800px;
-  font-size: 35px;
-  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","HG明朝E","ＭＳ Ｐ明朝","ＭＳ 明朝",serif;
-}
-
-.bordertitle{
-  height: 150px;
-  text-align: center;
-  line-height: 450%;
-  font-size: 35px;
-  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","HG明朝E","ＭＳ Ｐ明朝","ＭＳ 明朝",serif;  
-}
-
-
-.course{
-  width: 100%;
-  height: 800px;
-  background-color: rgba(182, 227, 212, 0.144) ;
-  display: flex;
-}
-
-.coursetext{
-	width: 50%;
-	height: 800px;
-  font-size: 25px;
-  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN","HG明朝E","ＭＳ Ｐ明朝","ＭＳ 明朝",serif;  
-
-}
-.lists{
-  line-height: 230%;
-}
-
-.rightcourse{
-	width: 50%;
-	height: 800px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.course_image{
-	width: 90%;
-  height: 90%;
-  
-}
-
-
