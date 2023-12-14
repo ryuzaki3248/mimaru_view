@@ -176,3 +176,20 @@ header{
   height: 100%;
 }
  
+
+
+
+
+
+ /* タブレット表示時 */
+ @media (max-width: 1024px) {
+
+
+
+
+
+
+
+
+ /* スマホ表示時 */
+ @media (max-width: 599px) {
